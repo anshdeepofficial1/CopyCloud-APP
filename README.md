@@ -26,3 +26,7 @@ Original editorial typography, a forest/lime palette, motion-based navigation an
 ## Verification
 
 See Actions for build and unit-test status. Physical-device compatibility and real clipboard interoperability still require end-to-end testing.
+
+---
+
+**Developer profile:** This repository is part of the public project portfolio of [Anshdeep Singh](https://github.com/anshdeepofficial1). [Official portfolio](https://anshdeepofficial1.vercel.app/about) · [Public project directory](https://anshdeepofficial1.vercel.app/work).
